@@ -27,3 +27,12 @@ and it should open up a browser window for [localhost:3000](http://localhost:300
 1. Refactor the code
 2. Fix the hardcoded SQL query
 3. Add functionality to Create, Update and Delete
+
+## Resources
+1. [Clojure: Getting started](https://clojure.org/guides/getting_started)
+2. [Ring](https://github.com/ring-clojure/ring/wiki/Getting-Started)
+3. [Compojure](https://github.com/weavejester/compojure)
+4. [Lein Ring](https://github.com/weavejester/lein-ring)
+5. [Leiningen](https://github.com/technomancy/leiningen)
+6. [Postgres image from Dockerhub](https://hub.docker.com/_/postgres)
+7. [clojure/java.jdbc](https://github.com/clojure/java.jdbc)
